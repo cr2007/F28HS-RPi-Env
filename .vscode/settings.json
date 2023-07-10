@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.stickyScroll.enabled": true, // To stick all the functions, classes at the top sdsdsdsdds
+    "editor.minimap.scale": 2,
+    "editor.indentSize": "tabSize",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "on",
+}
