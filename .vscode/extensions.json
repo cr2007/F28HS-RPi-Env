@@ -1,12 +1,12 @@
 {
-    "recommendations": [
-        "eamodio.gitlens",
-        "VisualStudioExptTeam.vscodeintellicode",
-        "ms-vscode.cpptools-extension-pack",
-        "dan-c-underwood.arm",
-        "mhutchie.git-graph",
-        "VisualStudioExptTeam.intellicode-api-usage-examples",
-        "VisualStudioExptTeam.vscodeintellicode-completions",
-        "vscode-icons-team.vscode-icons"
-    ]
+	"recommendations": [
+		"eamodio.gitlens",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"ms-vscode.cpptools-extension-pack",
+		"dan-c-underwood.arm",
+		"mhutchie.git-graph",
+		"VisualStudioExptTeam.intellicode-api-usage-examples",
+		"VisualStudioExptTeam.vscodeintellicode-completions",
+		"vscode-icons-team.vscode-icons"
+	]
 }

@@ -1,8 +1,8 @@
 {
-    "name": "ARM Assembly Codespace",
-    "customizations": {
-        "vscode": {
-            "extensions": [
+	"name": "ARM Assembly Codespace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
 				"eamodio.gitlens",
 				"VisualStudioExptTeam.vscodeintellicode",
 				"ms-vscode.cpptools-extension-pack",
@@ -12,6 +12,7 @@
 				"VisualStudioExptTeam.vscodeintellicode-completions",
 				"vscode-icons-team.vscode-icons"
 			]
-        }
-    }
+		}
+	}
+	// "postStartCommand": "docker run -it lukechilds/dockerpi pi3"
 }
